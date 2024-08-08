@@ -1,0 +1,36 @@
+.icons{
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+i{
+    font-size: 60px;
+    transition: 0.3s;
+}
+
+.bi-envelope:hover{
+    color: rgb(102, 165, 204);
+    cursor: pointer;
+}
+
+.bi-github:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.bi-linkedin:hover{
+    color: rgb(29, 29, 243);
+    cursor: pointer;
+}
+
+.bi-instagram:hover{
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d, #f56040, #f77737, #fcaf45, #ffdc80);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    cursor: pointer;
+    transition: 0.3s;
+}

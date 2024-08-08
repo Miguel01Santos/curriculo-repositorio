@@ -1,0 +1,27 @@
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15vh;
+    flex-direction: row;
+}
+
+i{
+    font-size: 100px;
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.984);
+}
+
+img{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}

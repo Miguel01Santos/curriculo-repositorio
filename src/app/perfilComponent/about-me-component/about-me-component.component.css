@@ -1,0 +1,28 @@
+h4{
+    color: white;
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 22px ;
+    padding: 20px 50px;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    height: 15vh;
+    flex-direction: row;
+}
+
+i{
+    font-size: 100px;
+    cursor: pointer;
+}
+
+img{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}

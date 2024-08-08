@@ -1,0 +1,49 @@
+
+/*corpo do componete*/
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+/*conteudo "descrição"*/
+.description {
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 40px;
+    color: rgb(175, 167, 167);
+}
+
+/*container contendo a descrição*/
+.main-desciption{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 100px;
+}
+
+i{
+    font-size: 100px;
+    transition: 0.1s;
+    cursor: pointer;
+}
+
+i:hover{
+    color: rgb(204, 194, 194);
+    font-size: 150px;
+}
+
+a{
+    color: white;
+}
