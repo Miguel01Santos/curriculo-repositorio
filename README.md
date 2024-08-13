@@ -1,10 +1,10 @@
-# MyPortifolio
+# MyPortifolio ⭐
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
+Esse é meu projeto de repositório pessoal, aplicado no Angular **18.1.4**.
 
-## Development server
+## Porque Angular ? ⚙️
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+A escolha da ferramenta que será utilizada em algum projeto é sem dúvidas a mais díficil, escolher por afinidade com a ferramente ou por pratícidade ou até mesmo por comodismo. Com todas essas dúvidas optei por utilizar o framework Angular por sua estrutura robusta e solida.<br> Mas não apenas isso... sou estudante de tecnologia e esse semestre na Faculdade vamos iniciar nossa aula de programação backend com introdução a linguagem JAVA, que segue príncipios POO, sendo bem parecidos com os métodos de estruturação do Angular. Sempre gostei do Angular, mas nesse momento vejo mais que uma ferramenta, vejo como uma grande oportunidade de agregar valor tanto na linguagem JAVA no backend quanto com o Angular no Frontend. 
 
 ## Code scaffolding
 
