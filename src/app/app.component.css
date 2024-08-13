@@ -76,16 +76,18 @@ h3{
   border-radius: 10px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   flex-direction: column;
   box-shadow: 2px 5px 40px 18px black;
-  color: rgb(114, 18, 203);
   transition: s;
+  gap: 20px;
+  padding: 25px;
+
 }
 
 .working1:hover{
   box-shadow: 1px 3px 8px 8px rgb(77, 74, 74);
-  padding: 5px;
+  padding: 25px;
   cursor: pointer;
 }
 
@@ -95,15 +97,43 @@ h3{
   width: 35%;
   border-radius: 10px;
   box-shadow: 2px 5px 40px 18px black;
-  color: rgb(114, 18, 203);
+  color: rgb(0, 0, 0);
 }
 
 .tec{
   display: flex;
   gap: 20px;
   padding: 7px 0;
+  justify-content: center;
+  align-items: center;
 }
 
+.divmain{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.title{
+  height: 7vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-bottom: solid 2px black;
+}
+
+.body{
+  height: 70vh;
+  width: 100%;
+  margin-bottom: 25px;
+  display: flex;
+  align-items: normal;
+  justify-content: end;
+  flex-direction: column-reverse;
+  padding: 0 40px;
+  
+}
 
 
 
