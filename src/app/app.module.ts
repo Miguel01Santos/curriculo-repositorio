@@ -12,6 +12,9 @@ import { MsgComponentComponent } from './perfilComponent/msg-component/msg-compo
 import { TechComponentComponent } from './techcomponents/tech-component/tech-component.component';
 import { ExperienceComponentComponent } from './techcomponents/experience-component/experience-component.component';
 import { ProjectComponentComponent } from './techcomponents/project-component/project-component.component';
+import { FuorComponentComponent } from './carrerComponent/fuor-component/fuor-component.component';
+import { TitleComponent } from './carrerComponent/title/title.component';
+import { ExperiencesComponent } from './carrerComponent/experiences/experiences.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +27,10 @@ import { ProjectComponentComponent } from './techcomponents/project-component/pr
     MsgComponentComponent,
     TechComponentComponent,
     ExperienceComponentComponent,
-    ProjectComponentComponent
+    ProjectComponentComponent,
+    FuorComponentComponent,
+    TitleComponent,
+    ExperiencesComponent
   ],
   imports: [
     BrowserModule,
