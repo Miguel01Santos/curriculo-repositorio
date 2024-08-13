@@ -9,6 +9,7 @@
 i{
     font-size: 60px;
     transition: 0.3s;
+    color: black;
 }
 
 .bi-envelope:hover{
@@ -22,7 +23,7 @@ i{
 }
 
 .bi-linkedin:hover{
-    color: rgb(29, 29, 243);
+    color: rgb(9, 9, 204);
     cursor: pointer;
 }
 
@@ -33,4 +34,8 @@ i{
 
     cursor: pointer;
     transition: 0.3s;
+}
+
+a{
+    text-decoration: none;
 }

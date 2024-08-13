@@ -12,7 +12,7 @@ export class FirstComponentComponent implements AfterViewInit {
     const options = {
 
       strings: [
-        'FreeLancer Full stack',
+        'FreeLancer Fullstack',
         'Software Developer',
         'Future technologist'
       ],
@@ -24,6 +24,13 @@ export class FirstComponentComponent implements AfterViewInit {
     };
 
     const typed = new Typed('.description', options);
+  }
+
+  scrollToSection() {
+    const element = document.getElementById('destino');
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
   }
 
 }

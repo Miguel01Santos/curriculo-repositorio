@@ -7,9 +7,9 @@ i{
     padding: 20px;
     border: solid 2px rgb(218, 213, 213);
     border-radius: 50%;
-    transition: .2s;
+    transition: .05s;
 }
 
 .picture:hover{
-    border: solid 2px white;
+    border: solid 6px white;
 }

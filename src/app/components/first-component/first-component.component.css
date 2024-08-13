@@ -23,6 +23,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 10vh;
 }
 
 .footer{
@@ -41,7 +42,6 @@ i{
 
 i:hover{
     color: rgb(204, 194, 194);
-    font-size: 150px;
 }
 
 a{
