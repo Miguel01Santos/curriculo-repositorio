@@ -98,6 +98,11 @@ h3{
   color: rgb(114, 18, 203);
 }
 
+.tec{
+  display: flex;
+  gap: 20px;
+  padding: 7px 0;
+}
 
 
 
