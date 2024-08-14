@@ -6,9 +6,9 @@ Esse é meu projeto de repositório pessoal, aplicado no Angular **18.1.4**.
 
 A escolha da ferramenta que será utilizada em algum projeto é sem dúvidas a mais díficil, escolher por afinidade com a ferramente ou por pratícidade ou até mesmo por comodismo. Com todas essas dúvidas optei por utilizar o framework Angular por sua estrutura robusta e solida.<br> Mas não apenas isso... sou estudante de tecnologia e esse semestre na Faculdade vamos iniciar nossa aula de programação backend com introdução a linguagem JAVA, que segue príncipios POO, sendo bem parecidos com os métodos de estruturação do Angular. Sempre gostei do Angular, mas nesse momento vejo mais que uma ferramenta, vejo como uma grande oportunidade de agregar valor tanto na linguagem JAVA no backend quanto com o Angular no Frontend. 
 
-## Code scaffolding
+## Organização da Pagina
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto tem uma unica pagina, que está separada em 5 partes .<br><br> A primeira parte está separada em 3 componentes : o Meu nome (texto H1 estático), Minhas competencias(3 texto dinâmicos que alternam para 1 unico texto vizualizado por vez, utilizei a lib **Typed.js** para animar o texto que como resultado escreve a palavra e a apaga sozinha seguindo esse fluxo simultaneamente) e minhas redes sociais (icones bootstrap com ancoras)
 
 ## Build
 
