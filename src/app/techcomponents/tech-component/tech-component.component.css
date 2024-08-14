@@ -8,6 +8,7 @@
     overflow: hidden;
     z-index: 10; /* Certifique-se de que este valor seja menor do que o z-index do cabeçalho */
     position: relative; /* Necessário para que o z-index seja aplicado */
+    
 }
 
 .icons{
@@ -17,7 +18,7 @@
     height: 15vh;
     flex-direction: row;
     animation: 15s slides infinite linear;
-    padding: 12px 0;
+    padding: 15px 0;
     position: relative; /* Necessário para que o z-index seja aplicado */
     z-index: 10; /* Certifique-se de que este valor seja menor do que o z-index do cabeçalho */
     gap: 50px;
