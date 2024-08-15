@@ -35,16 +35,9 @@ A quarta parte está em construção
 E por fim a quinta parte que conta com apenas 1 componente : 
 - Lista linguagens de programação( uma pquena animação com linguagens de programação que dómino que rolam pela tela simultaneamente(efetito praticado apenas com o CSS)).
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
 ## Teste unitários ⚛️
 
 como estamos falando de uma aplicação com pagina estática, não utilizamos nenhum tipo de teste no projeto, todas as pastas nativas do Angular para Teste foram removidas para aliviar o numero de paginas presentes no projeto.
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Como rodar o projeto ? 🏁
 
